@@ -1,2 +1,2 @@
-# gamew3
-Ini bot
+# bopenk
+Ini bot discord v14
