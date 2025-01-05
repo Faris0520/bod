@@ -1,0 +1,35 @@
+{
+    "name": "gamew3",
+    "version": "1.0.0",
+    "description": "bot gamew 3",
+    "main": "src/index.js",
+    "scripts": {
+        "start": "node src/index.js",
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "dev": "nodemon index.js"
+    },
+    "keywords": [
+        "keyword1",
+        "keyword2",
+        "keyword3"
+    ],
+    "author": "Nama Anda",
+    "license": "ISC",
+    "dependencies": {
+        "discord.js": "^14.17.2",
+        "dotenv": "^16.0.3",
+        "ms": "^2.1.3",
+        "pretty-ms": "^8.0.0"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.12"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/username/repo-name.git"
+    },
+    "bugs": {
+        "url": "https://github.com/username/repo-name/issues"
+    },
+    "homepage": "https://github.com/username/repo-name#readme"
+}
